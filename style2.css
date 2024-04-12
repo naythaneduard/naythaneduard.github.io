@@ -1,0 +1,21 @@
+
+header {
+    text-align: center;
+    background-color: pink;
+    margin: 50px;
+    font-size: 40px;
+}
+img {
+    width: 30px;
+    height: 30px;
+
+}
+
+div {
+    background-color: violet;
+    margin: 50px;
+}
+p {
+    font-family: cursive;
+    font-size: 30px;
+}
